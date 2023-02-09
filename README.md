@@ -1,5 +1,6 @@
 # 15 Puzzle
-![Screenshot_2](https://user-images.githubusercontent.com/56803757/217945749-263a245f-ae12-4d50-a36c-5a5dd0f48a71.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/56803757/217949627-b8454b50-64d7-44d3-835a-aaa38fd83dde.png)
 
 A simple game written in С++.
 
