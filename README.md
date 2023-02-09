@@ -3,11 +3,8 @@
 
 A simple game written in С++.
 
-Сontrol is carried out with arrows on the keyboard.
+To control using the arrows on the keyboard.
 
-The width of the playing field can be changed by passing the field size to the Game clas constructor.
+The width of the playing field can be changed by passing the field size to the Game class constructor.
 
-# Example
-     Game game(value);
 
-     The value must be between 3 and 9.
